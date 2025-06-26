@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-dupe-bot",
+  "version": "1.0.0",
+  "description": "A Mineflayer bot for frame dupe automation.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.14.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
